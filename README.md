@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Scala + Kotlin projects at @porchdotcom.
-- 🌱 I spend time every day learning something new. Right now, SwiftUI is catching my eye!
+- 🌱 I spend time every day learning something new. Right now, ZIO is catching my eye!
 - 📫 How to reach me: basinski@hey.com
 
 <!--
