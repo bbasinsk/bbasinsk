@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on projects at Pandion
 - 🌱 I spend time every day learning something new.
-- 📫 How to reach me: basinski@hey.com
+- 📫 How to reach me: benbasinski97@gmail.com
 
 <!--
 **bbasinsk/bbasinsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
