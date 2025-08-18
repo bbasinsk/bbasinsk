@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on projects at Pandion
+- 🔭 I’m currently working on a couple personal projects.
 - 🌱 I spend time every day learning something new.
 - 📫 How to reach me: benbasinski97@gmail.com
 
